@@ -34,24 +34,24 @@ If you are also interested in Bootstrap like me, just don't miss this project. Y
 
 3. The **Abountus Page**:
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/aboutus.png" alt="recommend_page" width="40%" height="40%">
+  <img src="./readme_images/aboutus.png" alt="recommend_page" width="40%" height="40%">
 </div>
 <br>
 
 4. The **Contact Page**:
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/contact.png" alt="product_page.png" width="40%" height="40%">
+  <img src="./readme_images/contact.png" alt="product_page.png" width="40%" height="40%">
 </div>
 <br>
 
 5. The **Modals**:
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/modal.png" alt="buy_page.png" width="40%" height="40%">
+  <img src="./readme_images/modal.png" alt="buy_page.png" width="40%" height="40%">
 </div>
 <br>
 
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/modal2.png" alt="order_page.png" width="40%" height="40%">
+  <img src="./readme_images/modal2.png" alt="order_page.png" width="40%" height="40%">
 </div>
 <br>
 
