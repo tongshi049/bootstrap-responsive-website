@@ -22,13 +22,13 @@ If you are also interested in Bootstrap like me, just don't miss this project. Y
 
 1. **Project Conclustion**:
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/project_overview.png" alt="prject_overview" width="70%" height="70%">
+  <img src="./readme_images/project_overview.png" alt="prject_overview" width="70%" height="70%">
 </div>
 <br> 
 
 2. The **Index Page**: 
 <div>
-  <img src="./Bootstrap4/conFusion/readme_images/index.png" alt="index_page" width="40%" height="40%">
+  <img src="./readme_images/index.png" alt="index_page" width="40%" height="40%">
 </div>
 <br>
 
@@ -61,7 +61,7 @@ If you are also interested in Bootstrap like me, just don't miss this project. Y
 
 - Clone the project and go to the project foloder
 ```
-git clone https://github.com/tongshi049/bootstrap-a-restaurant-website.git
+git clone https://github.com/tongshi049/bootstrap-responsive-website.git
 cd conFusion
 ```
 - Install dependencies in project folder
