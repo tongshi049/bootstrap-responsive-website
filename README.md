@@ -22,36 +22,36 @@ If you are also interested in Bootstrap like me, just don't miss this project. Y
 
 1. **Project Conclustion**:
 <div>
-  <img src="./readme_images/project_overview.png" alt="prject_overview" width="70%" height="70%">
+  <img src="./readme_images/project_overview.png" alt="prject_overview" width="50%" height="50%">
 </div>
 <br> 
 
 2. The **Index Page**: 
 <div>
-  <img src="./readme_images/index.png" alt="index_page" width="40%" height="40%">
+  <img src="./readme_images/index.png" alt="index_page" width="50%" height="50%">
 </div>
 <br>
 
 3. The **Abountus Page**:
 <div>
-  <img src="./readme_images/aboutus.png" alt="recommend_page" width="40%" height="40%">
+  <img src="./readme_images/aboutus.png" alt="recommend_page" width="50%" height="50%">
 </div>
 <br>
 
 4. The **Contact Page**:
 <div>
-  <img src="./readme_images/contact.png" alt="product_page.png" width="40%" height="40%">
+  <img src="./readme_images/contact.png" alt="product_page.png" width="50%" height=50%">
 </div>
 <br>
 
 5. The **Modals**:
 <div>
-  <img src="./readme_images/modal.png" alt="buy_page.png" width="40%" height="40%">
+  <img src="./readme_images/modal.png" alt="buy_page.png" width="50%" height="50%">
 </div>
 <br>
 
 <div>
-  <img src="./readme_images/modal2.png" alt="order_page.png" width="40%" height="40%">
+  <img src="./readme_images/modal2.png" alt="order_page.png" width="50%" height="50%">
 </div>
 <br>
 
